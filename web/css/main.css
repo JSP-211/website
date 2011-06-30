@@ -1,0 +1,63 @@
+html {
+    overflow-y: scroll;
+    height: 100%
+}
+body {
+    background-color: #eeeeee;
+}
+#heading {
+    background-color: #6699ff;
+    width: auto;
+    margin: -10;
+    border: 1px solid black;
+    font-family: monospace;
+}
+#content {
+    overflow: hidden;
+    background-color: #ffffff;
+    width: 70em;
+    height: 30em;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 9px auto;
+    border: 1px solid black;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    box-shadow: 0 0 30px #aaaaaa;
+    -moz-box-shadow: 0 0 30px #aaaaaa;
+    -webkit-box-shadow: 0 0 30px #aaaaaa;
+    -khtml-box-shadow: 0 0 30px #aaaaaa;
+}
+p {
+    text-align: center;
+    font-style: italic;
+    font-family: sans-serif;
+}
+h2 {
+    text-align: center;
+    border: 0 solid #dddddd;
+    border-bottom-width: 1px;
+    color:black
+}
+hr {
+    color: gray;
+    background-color: gray;
+    height: 1px
+}
+textarea:focus {
+    box-shadow: 0 0 10px #aaaaaa;
+    -moz-box-shadow: 0 0 10px #aaaaaa;
+    -webkit-box-shadow: 0 0 10px #aaaaaa;
+    -khtml-box-shadow: 0 0 10px #aaaaaa;
+}
+textarea:focus {
+    box-shadow: 0 0 10px #aaaaaa;
+    -moz-box-shadow: 0 0 10px #aaaaaa;
+    -webkit-box-shadow: 0 0 10px #aaaaaa;
+    -khtml-box-shadow: 0 0 10px #aaaaaa;
+}
+#copyright{
+    font-size:60%;
+    text-align:center;
+    margin:10px
+}

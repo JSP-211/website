@@ -1,0 +1,3 @@
+My current setup for this website is Apache Tomcat 7, running under IntelliJ IDEA.
+
+So I would recommend using these things, however other IDE's can of course be used.

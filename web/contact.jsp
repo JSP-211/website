@@ -9,14 +9,22 @@
   </head>
   <body>
   <div id="heading">
-      <h2>Kyle's Website</h2>
+      <h2>Kyle's Website - Contact</h2>
       <div style="text-align: center;">
           <a href="index.jsp">Home</a>   |   <a href="projects.jsp">Projects</a>   |   <a href="contact.jsp">Contact</a>
       </div>
   </div>
     <div id="content">
         <p>
-            Welcome to my website, this site is dedicated to computers and programming mainly.
+            I am connected on Twitter @sonikhak. <br><br>
+
+            ... Or you can drop me a message here:
+            <br>
+            <div style="text-align: center;">
+            Name: <br><input type="text" name="name"/><br>
+            Message: <br><textarea cols=50 rows=5 name="msg"></textarea> <br>
+            <input type="submit" value="Submit"/>
+        </div>
         </p>
       </div>
   <div id="copyright">
