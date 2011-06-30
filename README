@@ -1,8 +1,26 @@
-Will update this asap.
+My Website
+______________
 
 RUN-DOWN
 ______________
 
-This is just my first attempt at creating a full site using JSP.
+This is just my first attempt at creating a full site using JSP/HTML/CSS.
 
 Configured to run with Apache Tomcat 7. Written using IntelliJ IDEA.
+
+AGREEMENT
+_____________
+
+By using this software you are agreeing that you will not copy the entire design of this site
+as it was also built for personal use, you are also agreeing that if any code from this project
+is used at all anywhere even the slightest bit, you must credit the author (sonikhak) who can be
+found at the links below. These things were not put in place because of general selfishness but the
+fact that this website was created for personal use and that I just love open-source and think people
+should be allowed to learn from this or perhaps use some of it's concepts, if I ever change the design
+of my site over at http://sonikhak.net/ then you have full permission to do whatever you want with this
+site and you can completely disregard this license.
+
+STRONG NOTICE: I CURRENTLY DO NOT OWN THE DOMAIN HTTP://SONIKHAK.NET/ SO THE AGREEMENT MUST STAY IN PLACE!
+
+Twitter -   http://twitter.com/#!/sonikhak
+GitHub  -   https://github.com/sonikhak
